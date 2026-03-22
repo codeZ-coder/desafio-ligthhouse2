@@ -1,0 +1,6 @@
+{
+  "top_id_product_percentual_perda": 72,
+  "top_percentual_perda": 0.6315004931132593,
+  "taxa_cambio_usada": "PTAX cotacaoVenda diaria do Banco Central (preenchimento ffill para dias sem cotacao)",
+  "regra_prejuizo": "max(custo_total_brl - total_venda_brl, 0)"
+}

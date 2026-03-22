@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE/system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Office/lock temp files
+~$*.docx
+.~lock.*
+
+# Local/rebuild artifacts not part of final recruiter package
+docs/desafio_respondido_tecnico.pdf
+docs/desafio_respondido_passo_a_passo.pdf
+
+# Archive area for non-essential files moved out of main workspace
+arquivos/
+arquivo/
+
+# Local image drafts/support files (not required for final submission package)
+data/img/
+

@@ -1,0 +1,12 @@
+{
+  "rows_before": 157,
+  "rows_after": 150,
+  "duplicates_removed": 7,
+  "unique_categories_after": [
+    "ancoragem",
+    "eletronicos",
+    "propulsao"
+  ],
+  "price_min": 309.54,
+  "price_max": 148198.23
+}
